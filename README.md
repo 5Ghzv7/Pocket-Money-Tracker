@@ -1,5 +1,5 @@
 # Pocket-Money-Tracker
-Keeps Track of your Pocket Money with Automatic Logging! [Only INR supported for NOW]
+Keeps Track of your Pocket Money with Automatic Logging!
 
 # Important
 RUN initialize.py BEFORE running main.py
