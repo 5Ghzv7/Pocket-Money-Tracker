@@ -1,9 +1,9 @@
 # Pocket-Money-Tracker
+
 Keeps Track of your Pocket Money with Automatic Logging!
 
+Check the record.txt in pref folder to check your Pocket Money
+
 # Important
-RUN initialize.py BEFORE running main.py
 
-DO NOT RUN initialize.py AFTER RUNNING IT ONCE
-
-DO NOT DELETE initialized.txt OR record.txt OR PROGRAM WILL MALFUNCTION.
+Do NOT delete any files located in pref folder.
